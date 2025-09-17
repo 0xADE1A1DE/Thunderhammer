@@ -14,7 +14,7 @@ Preprint available on [arXiv](https://arxiv.org/abs/2509.11440) (2509.11440).
 We include some scripts containing pcileech commands that can be used for the various phases of Rowhammer evaluation: priming victim and aggressor rows with 1's and 0's, initiating hammering, then dumping out victim row contents and analysing for any bitflips. 
 
 ## Device
-Modified RTL for ZDMA device - based on the [pcileech-fpga/ZDMA](https://github.com/ufrisk/pcileech-fpga/tree/master/ZDMA) project
+Modified RTL for ZDMA device - based on the [pcileech-fpga/ZDMA](https://github.com/ufrisk/pcileech-fpga/tree/master/ZDMA) project, and for use interacting with the [pcileech](https://github.com/ufrisk/pcileech) codebase.
 
 The modifications primarily allow us to send a sequence of PCIe TLPs (packets) which the device will then repeatedly re-transmit in a loop to the target for hammering.
 Under the current configurations the ZDMA will transmit in a loop until it has completed the requested number of transmissions, or it can be set to stop earlier as soon as the target system throttles the ZDMA (from being overwhelmed) during the transmission looping. 
