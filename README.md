@@ -151,7 +151,7 @@ The project can be found here: https://github.com/ufrisk/pcileech-fpga
 ## Copyright and license
 
 Original source:  
-&nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2024 [Ulf Frisk](https://github.com/ufrisk)  
+&nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2024 Ulf Frisk  
 &nbsp;&nbsp;&nbsp;&nbsp; Licensed under the MIT License.  
 
 Modified source  
