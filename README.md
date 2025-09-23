@@ -145,7 +145,7 @@ _In its state as provided, this is not an inherently destructive artefact. Howev
 These applications are based on an original PCIe device core 'pcileech-fpga' produced by Ulf Frisk.  
 The project can be found here: https://github.com/ufrisk/pcileech-fpga
 
-## Author of injector modifications
+## Author of Thunderhammer modifications
 [Robbie Dumitru](https://robbiedumitru.github.io/) - The University of Adelaide and Ruhr University Bochum, 2025.
 
 ## Copyright and license
