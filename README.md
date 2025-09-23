@@ -142,7 +142,7 @@ To connect the ZDMA via Thunderbolt we suggest using a PCIe-to-Thunderbolt chass
 _In its state as provided, this is not an inherently destructive artefact. However it can be developed into one, as such we do not condone the use of this technology for illegal purposes and assume no responsibility for any damages caused._
 
 ## Author of original core
-These applications are based on an original PCIe device core 'pcileech-fpga' produced by Ulf Frisk.  
+These applications are based on an original PCIe device core 'pcileech-fpga' produced by [Ulf Frisk](https://github.com/ufrisk).  
 The project can be found here: https://github.com/ufrisk/pcileech-fpga
 
 ## Author of Thunderhammer modifications
@@ -150,12 +150,17 @@ The project can be found here: https://github.com/ufrisk/pcileech-fpga
 
 ## Copyright and license
 
-Original source - Ulf Frisk
+Original source:
+&nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2017 [Ulf Frisk](https://github.com/ufrisk)
+&nbsp;&nbsp;&nbsp;&nbsp; Licensed under the MIT License.
 
-Modified source - Copyright 2025 by Robbie Dumitru
+Modified source
+&nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2025 by Robbie Dumitru
+&nbsp;&nbsp;&nbsp;&nbsp; Licensed under Creative Commons CC0-1.0
 
 These applications can be freely modified, used, and distributed as long as the attributions to both the original author and author of modifications (and their employers) are not removed.
 
+The completed solution contains Xilinx proprietary IP cores licensed under the Xilinx CORE LICENSE AGREEMENT. This project as-is published on Github contains no Xilinx proprietary IP. Published source code are licensed under the MIT License and the Creative Commons License. The end user that have downloaded the no-charge Vivado WebPACK from Xilinx will have the proper licenses and will be able to re-generate Xilinx proprietary IP cores by running the build detailed above.
 
 ## Acknowledgements
 #### This project was supported by:  
