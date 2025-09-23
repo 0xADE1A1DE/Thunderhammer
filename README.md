@@ -151,12 +151,12 @@ The project can be found here: https://github.com/ufrisk/pcileech-fpga
 ## Copyright and license
 
 Original source:  
-&nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2017 [Ulf Frisk](https://github.com/ufrisk)  
+&nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2024 [Ulf Frisk](https://github.com/ufrisk)  
 &nbsp;&nbsp;&nbsp;&nbsp; Licensed under the MIT License.  
 
 Modified source  
 &nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2025 by Robbie Dumitru  
-&nbsp;&nbsp;&nbsp;&nbsp; Licensed under Creative Commons CC0-1.0  
+&nbsp;&nbsp;&nbsp;&nbsp; Licensed under Creative Commons CC0-1.0.  
 
 These applications can be freely modified, used, and distributed as long as the attributions to both the original author and author of modifications (and their employers) are not removed.
 
