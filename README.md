@@ -156,13 +156,13 @@ Original source:
 
 Modified source  
 &nbsp;&nbsp;&nbsp;&nbsp; Copyright (c) 2025 by Robbie Dumitru  
-&nbsp;&nbsp;&nbsp;&nbsp; Licensed under Creative Commons CC0-1.0.  
+&nbsp;&nbsp;&nbsp;&nbsp; Licensed under the MIT License.  
 
 These applications can be freely modified, used, and distributed as long as the attributions to both the original author and author of modifications (and their employers) are not removed.
 
 The completed solution contains Xilinx proprietary IP cores licensed under the Xilinx CORE LICENSE AGREEMENT.
 This project as-is published on Github contains no Xilinx proprietary IP.
-Published source code are licensed under the MIT License and the Creative Commons License.
+Published source code is licensed under the MIT License.
 The end user that have downloaded the no-charge Vivado WebPACK from Xilinx will have the proper licenses and will be able to re-generate Xilinx proprietary IP cores by running the build detailed above.
 
 ## Acknowledgements
